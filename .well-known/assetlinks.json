@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mind_nature.falundafabooks",
+        "sha256_cert_fingerprints": ["1F:AA:22:D4:E6:AE:23:65:A4:98:5A:6D:2A:05:EC:21:C4:CD:4D:FE:D1:53:0A:15:51:0A:63:5D:61:03:82:5F"]
+      }
+    }]
