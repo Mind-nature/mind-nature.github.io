@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.mind_nature.falundafabooks",
-        "sha256_cert_fingerprints": ["1F:AA:22:D4:E6:AE:23:65:A4:98:5A:6D:2A:05:EC:21:C4:CD:4D:FE:D1:53:0A:15:51:0A:63:5D:61:03:82:5F"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mind_nature.falundafabooks",
+    "sha256_cert_fingerprints": [
+      "1F:AA:22:D4:E6:AE:23:65:A4:98:5A:6D:2A:05:EC:21:C4:CD:4D:FE:D1:53:0A:15:51:0A:63:5D:61:03:82:5F",
+      "FD:79:03:05:41:2F:F8:CC:EB:F1:F8:98:8A:8D:A7:AC:79:39:EE:46:00:7E:58:8A:37:CD:50:26:03:66:9A:39"
+    ]
+  }
+}]
